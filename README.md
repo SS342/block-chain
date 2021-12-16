@@ -9,3 +9,4 @@ from urllib.parse import urlparse
 import requests
 from flask import Flask, jsonify, request
 ```
+## arcsin(cos(arcctg(log2 12)) + cos12 + п)
